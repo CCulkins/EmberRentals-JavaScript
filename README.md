@@ -2,7 +2,7 @@
 
 #### _This application is a forum where users can view houses up for rent, or post their own. 03/29/2016_
 
-#### By _**Cassandra Culkins**_ _**Mao Thygesen**_ & **_Riley Starnes**_
+#### By _**Cassandra Culkins**_ _**Mao Thygesen**_ & _**Riley Starnes**_
 
 ## Description
 
